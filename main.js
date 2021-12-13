@@ -37,7 +37,7 @@ debugger
 readings.forEach(r => {
 if (A.length < 3) {
   A.push(Number(r))
-}
+} 
 })
 console.log(count)
 }

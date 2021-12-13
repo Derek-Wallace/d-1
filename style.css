@@ -3,3 +3,7 @@
   background-size: cover;
   height: 75vh
 }
+
+.green {
+  background-color: rgb(122, 238, 122);
+}
